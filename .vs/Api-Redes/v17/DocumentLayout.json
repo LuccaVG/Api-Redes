@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\api-redes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\api-redes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\repositories\\nomesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\repositories\\nomesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\contexts\\nome_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\contexts\\nome_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\interfaces\\inomesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\interfaces\\inomesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\domains\\nomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\domains\\nomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|c:\\users\\54297548895\\source\\repos\\api-redes\\api-redes\\controllers\\nomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCBA57E-64F7-4041-8760-8CE81F5C4056}|Api-Redes\\Api-Redes.csproj|solutionrelative:api-redes\\controllers\\nomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api-Redes",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Api-Redes.csproj",
+              "RelativeDocumentMoniker": "Api-Redes\\Api-Redes.csproj",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Api-Redes.csproj",
+              "RelativeToolTip": "Api-Redes\\Api-Redes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T13:45:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nome_Context.cs",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Contexts\\Nome_Context.cs",
+              "RelativeDocumentMoniker": "Api-Redes\\Contexts\\Nome_Context.cs",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Contexts\\Nome_Context.cs",
+              "RelativeToolTip": "Api-Redes\\Contexts\\Nome_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:28:47.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NomesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Repositories\\NomesRepository.cs",
+              "RelativeDocumentMoniker": "Api-Redes\\Repositories\\NomesRepository.cs",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Repositories\\NomesRepository.cs",
+              "RelativeToolTip": "Api-Redes\\Repositories\\NomesRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:19:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INomesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Interfaces\\INomesRepository.cs",
+              "RelativeDocumentMoniker": "Api-Redes\\Interfaces\\INomesRepository.cs",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Interfaces\\INomesRepository.cs",
+              "RelativeToolTip": "Api-Redes\\Interfaces\\INomesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:18:17.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nomes.cs",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Domains\\Nomes.cs",
+              "RelativeDocumentMoniker": "Api-Redes\\Domains\\Nomes.cs",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Domains\\Nomes.cs",
+              "RelativeToolTip": "Api-Redes\\Domains\\Nomes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:16:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NomesController.cs",
+              "DocumentMoniker": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Controllers\\NomesController.cs",
+              "RelativeDocumentMoniker": "Api-Redes\\Controllers\\NomesController.cs",
+              "ToolTip": "C:\\Users\\54297548895\\source\\repos\\Api-Redes\\Api-Redes\\Controllers\\NomesController.cs",
+              "RelativeToolTip": "Api-Redes\\Controllers\\NomesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:17:21.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
